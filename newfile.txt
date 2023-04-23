@@ -1,0 +1,6 @@
+hello world in the new file
+and another line
+Sequence string line 1
+Sequence string line2
+
+
